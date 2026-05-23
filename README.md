@@ -25,7 +25,7 @@ Control **Windows** with your webcam and hand gestures — a lightweight, local 
 ## Quick start
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/hand-jarvis.git
+git clone https://github.com/muhib360/hand-jarvis.git
 cd hand-jarvis
 
 python -m venv .venv
